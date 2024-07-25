@@ -1,0 +1,33 @@
+[
+    {
+      "id": 1,
+      "item": "televisores",
+      "quantity": 50,
+      "warehouseId": 1
+    },
+    {
+      "id": 2,
+      "item": "refrigeradores",
+      "quantity": 30,
+      "warehouseId": 2
+    },
+    {
+      "id": 3,
+      "item": "lavadoras",
+      "quantity": 20,
+      "warehouseId": 1
+    },
+    {
+      "id": 4,
+      "item": "microondas",
+      "quantity": 60,
+      "warehouseId": 3
+    },
+    {
+      "id": 5,
+      "item": "aires acondicionados",
+      "quantity": 15,
+      "warehouseId": 2
+    }
+  ]
+  

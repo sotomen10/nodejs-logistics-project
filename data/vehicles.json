@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "model": "Toyota Corolla",
+    "year": 2020
+  },
+  {
+    "id": 2,
+    "model": "Honda Civic",
+    "year": 2019
+  },
+  {
+    "id": 3,
+    "model": "Ford Mustang",
+    "year": 2021
+  },
+  {
+    "id": 4,
+    "model": "Chevrolet Malibu",
+    "year": 2018
+  },
+  {
+    "id": 5,
+    "model": "Nissan Altima",
+    "year": 2022
+  }
+]
