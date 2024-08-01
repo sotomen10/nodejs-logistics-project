@@ -5,3 +5,4 @@ console.clear();
 // Este archivo probablemente contiene la configuración principal de la aplicación, 
 // como la inicialización del servidor y la configuración de rutas.
 import './app/app.js';
+
