@@ -8,11 +8,11 @@ try {
     // Crea una instancia del pool de conexiones con la configuración proporcionada.
     // Un pool de conexiones es una forma eficiente de manejar múltiples conexiones a la base de datos.
     pool = mysql2.createPool({
-        host: 'b0m91voppvz74ioul0wn-mysql.services.clever-cloud.com', // La dirección del servidor de la base de datos.
-        user: 'u7a8s3u6ybr12geb', // El nombre de usuario para autenticar la conexión a la base de datos.
-        database: 'b0m91voppvz74ioul0wn', // El nombre de la base de datos a la que se conecta.
+        host: 'bsar6rfeod5kfsezxzew-mysql.services.clever-cloud.com', // La dirección del servidor de la base de datos.
+        user: 'u5dnpmmf3ftd6sxi', // El nombre de usuario para autenticar la conexión a la base de datos.
+        database: 'bsar6rfeod5kfsezxzew', // El nombre de la base de datos a la que se conecta.
         port: 3306, // El puerto en el que el servidor de la base de datos está escuchando (puerto MySQL por defecto).
-        password: 'WzWTXQpFwsU3PpWkIQUc', // La contraseña para autenticar la conexión a la base de datos.
+        password: '8SYnNKy7yN8WWs5s1Yqa', // La contraseña para autenticar la conexión a la base de datos.
     });
 
     // Si la conexión es exitosa, imprime un mensaje en la consola.
